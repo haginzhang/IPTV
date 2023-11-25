@@ -1,25 +1,17 @@
 #EXTM3U x-tvg-url = ""
-
 #EXTINF:-1, tvg-id = "山东齐鲁", tvg-name = "山东齐鲁", group-title = "山东", tvg-logo = "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东齐鲁.png", 山东齐鲁
 http://222.134.240.136:9901/tsfile/live/1006_1.m3u8?url=tvzb.com
-
 #EXTINF:-1, tvg-id = "山东体育", tvg-name = "山东体育", group-title = "山东", tvg-logo = "https://epg.112114.xyz/logo/山东体育.png", 山东体育
 http://222.134.240.136:9901/tsfile/live/1073_1.m3u8?url=tvzb.com
-
 #EXTINF:-1, tvg-id = "山东少儿", tvg-name = "山东少儿", group-title = "山东", tvg-logo = "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东少儿.png", 山东少儿
 http://222.134.240.136:9901/tsfile/live/1000_1.m3u8?url=tvzb.com
-
 #EXTINF:-1, tvg-id = "山东文旅", tvg-name = "山东文旅", group-title = "山东", tvg-logo = "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东文旅.png", 山东文旅
 http://222.134.240.136:9901/tsfile/live/1001_1.m3u8?url=tvzb.com
-
 #EXTINF:-1, tvg-id = "山东综艺", tvg-name = "山东综艺", group-title = "山东", tvg-logo = "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东综艺.png", 山东综艺
 http://222.134.240.136:9901/tsfile/live/1002_1.m3u8?url=tvzb.com
-
 #EXTINF:-1, tvg-id = "山东生活", tvg-name = "山东生活", group-title = "山东", tvg-logo = "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东生活.png", 山东生活
 http://222.134.240.136:9901/tsfile/live/1003_1.m3u8?url=tvzb.com
-
 #EXTINF:-1, tvg-id = "山东农科", tvg-name = "山东农科", group-title = "山东", tvg-logo = "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东农科.png", 山东农科
 http://222.134.240.136:9901/tsfile/live/1005_1.m3u8?url=tvzb.com
-
 #EXTINF:-1, tvg-id = "山东新闻", tvg-name = "山东新闻", group-title = "山东", tvg-logo = "https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png", 山东新闻
 http://222.134.240.136:9901/tsfile/live/1004_1.m3u8?url=tvzb.com
